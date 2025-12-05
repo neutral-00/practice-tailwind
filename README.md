@@ -1,6 +1,19 @@
 # PracticeTailwind
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+This project was generated using Vite and [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+
+```sh
+pnpm create vite@latest practice-tailwind
+```
+
+## Project Metadata
+
+- Repository:
+- Branch: main
+
+## Tutorial Reference
+
+> https://youtu.be/ft30zcMlFao
 
 ## Development server
 
