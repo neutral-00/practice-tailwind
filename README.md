@@ -8,7 +8,7 @@ pnpm create vite@latest practice-tailwind
 
 ## Project Metadata
 
-- Repository:
+- Repository: https://github.com/neutral-00/practice-tailwind
 - Branch: main
 
 ## Tutorial Reference
